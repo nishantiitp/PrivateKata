@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\obj\x86\Debug\TreeDiameter.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\bin\Debug\TreeDiameter.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\bin\Debug\TreeDiameter.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\obj\x86\Debug\TreeDiameter.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\obj\x86\Debug\TreeDiameter.pdb

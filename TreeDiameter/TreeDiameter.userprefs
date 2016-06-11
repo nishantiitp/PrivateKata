@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="TreeDiameter\TreeDiameter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TreeDiameter\Program.cs">
+    <Files>
+      <File FileName="TreeDiameter\Program.cs" Line="33" Column="122" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\Program.cs" line="23" column="1" />
+      <Breakpoint file="D:\PrivateKata\nishantiitp\PrivateKata.git\TreeDiameter\TreeDiameter\Program.cs" line="41" column="74" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
