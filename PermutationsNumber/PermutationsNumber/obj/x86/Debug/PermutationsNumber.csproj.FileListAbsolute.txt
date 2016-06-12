@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\PermutationsNumber\PermutationsNumber\bin\Debug\PermutationsNumber.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\PermutationsNumber\PermutationsNumber\bin\Debug\PermutationsNumber.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\PermutationsNumber\PermutationsNumber\obj\x86\Debug\PermutationsNumber.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\PermutationsNumber\PermutationsNumber\obj\x86\Debug\PermutationsNumber.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\PermutationsNumber\PermutationsNumber\obj\x86\Debug\PermutationsNumber.pdb
