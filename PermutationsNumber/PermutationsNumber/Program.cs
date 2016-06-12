@@ -1,5 +1,9 @@
 ﻿using System;
 
+/// <summary>
+/// Generates permutations of a string. The idea here is to keep a part of the string fixed, and swap the character with others in each iteration.
+/// </summary>
+
 namespace PermutationsNumber
 {
 	class MainClass

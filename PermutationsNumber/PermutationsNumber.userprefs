@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="PermutationsNumber\PermutationsNumber.csproj" />
+﻿<Properties StartupItem="PermutationsNumber\PermutationsNumber.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PermutationsNumber\Program.cs">
+    <Files>
+      <File FileName="PermutationsNumber\Program.cs" Line="4" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
