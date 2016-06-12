@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\bin\Debug\MedianSortedArrays.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\bin\Debug\MedianSortedArrays.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\obj\x86\Debug\MedianSortedArrays.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\obj\x86\Debug\MedianSortedArrays.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\obj\x86\Debug\MedianSortedArrays.pdb
