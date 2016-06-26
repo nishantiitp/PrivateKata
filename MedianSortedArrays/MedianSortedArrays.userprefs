@@ -1,1 +1,14 @@
-﻿<Properties StartupItem="MedianSortedArrays\MedianSortedArrays.csproj" />
+﻿<Properties StartupItem="MedianSortedArrays\MedianSortedArrays.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MedianSortedArrays\Program.cs">
+    <Files>
+      <File FileName="MedianSortedArrays\Program.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\PrivateKata\nishantiitp\PrivateKata.git\MedianSortedArrays\MedianSortedArrays\Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\LexicographicStringRank\LexicographicStringRank\obj\x86\Debug\LexicographicStringRank.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\LexicographicStringRank\LexicographicStringRank\bin\Debug\LexicographicStringRank.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\LexicographicStringRank\LexicographicStringRank\bin\Debug\LexicographicStringRank.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\LexicographicStringRank\LexicographicStringRank\obj\x86\Debug\LexicographicStringRank.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\LexicographicStringRank\LexicographicStringRank\obj\x86\Debug\LexicographicStringRank.pdb

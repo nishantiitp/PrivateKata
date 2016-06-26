@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\LCPString\LCPString\obj\x86\Debug\LCPString.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\LCPString\LCPString\bin\Debug\LCPString.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\LCPString\LCPString\bin\Debug\LCPString.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\LCPString\LCPString\obj\x86\Debug\LCPString.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\LCPString\LCPString\obj\x86\Debug\LCPString.pdb
