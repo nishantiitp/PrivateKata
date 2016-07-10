@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="removeSpaces\removeSpaces.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="removeSpaces\Program.cs">
+    <Files>
+      <File FileName="removeSpaces\Program.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

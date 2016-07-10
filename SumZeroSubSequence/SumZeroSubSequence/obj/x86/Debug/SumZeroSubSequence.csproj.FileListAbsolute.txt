@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\SumZeroSubSequence\SumZeroSubSequence\obj\x86\Debug\SumZeroSubSequence.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\SumZeroSubSequence\SumZeroSubSequence\bin\Debug\SumZeroSubSequence.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\SumZeroSubSequence\SumZeroSubSequence\bin\Debug\SumZeroSubSequence.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\SumZeroSubSequence\SumZeroSubSequence\obj\x86\Debug\SumZeroSubSequence.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\SumZeroSubSequence\SumZeroSubSequence\obj\x86\Debug\SumZeroSubSequence.pdb

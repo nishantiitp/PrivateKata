@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\ShortestPathRemote\ShortestPathRemote\bin\Debug\ShortestPathRemote.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\ShortestPathRemote\ShortestPathRemote\bin\Debug\ShortestPathRemote.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\ShortestPathRemote\ShortestPathRemote\obj\x86\Debug\ShortestPathRemote.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\ShortestPathRemote\ShortestPathRemote\obj\x86\Debug\ShortestPathRemote.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\ShortestPathRemote\ShortestPathRemote\obj\x86\Debug\ShortestPathRemote.pdb

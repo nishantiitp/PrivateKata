@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\obj\x86\Debug\removeSpaces.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\bin\Debug\removeSpaces.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\bin\Debug\removeSpaces.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\obj\x86\Debug\removeSpaces.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\removeSpaces\removeSpaces\obj\x86\Debug\removeSpaces.pdb
