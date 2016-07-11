@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="SumZeroSubSequence\SumZeroSubSequence.csproj" />
+﻿<Properties StartupItem="SumZeroSubSequence\SumZeroSubSequence.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SumZeroSubSequence\Program.cs">
+    <Files>
+      <File FileName="SumZeroSubSequence\Program.cs" Line="28" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
