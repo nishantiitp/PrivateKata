@@ -1,0 +1,5 @@
+D:\PrivateKata\nishantiitp\PrivateKata.git\testproj\testproj\bin\Debug\testproj.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\testproj\testproj\bin\Debug\testproj.pdb
+D:\PrivateKata\nishantiitp\PrivateKata.git\testproj\testproj\obj\Debug\testproj.csprojResolveAssemblyReference.cache
+D:\PrivateKata\nishantiitp\PrivateKata.git\testproj\testproj\obj\Debug\testproj.exe
+D:\PrivateKata\nishantiitp\PrivateKata.git\testproj\testproj\obj\Debug\testproj.pdb
